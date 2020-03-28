@@ -7,9 +7,6 @@ edition = "2018"
 license = "MIT"
 categories = ["wasm", "development-tools::testing", "development-tools::cargo-plugins"]
 
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
-
-
 [dependencies]
 yew = { version = "0.14", features = ["toml", "yaml", "msgpack", "cbor", "web_sys"]}
 web-sys = {version = "0.3.36", features = ["Node"]}
