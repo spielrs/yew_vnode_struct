@@ -5,6 +5,7 @@ description = "Utility for yew framework to get the complete structure of vnode"
 authors = ["Francisco Jesus Navarro Cortes <spieljs@gmail.com>"]
 edition = "2018"
 license = "MIT"
+categories = ["yew", "debug", "test"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
