@@ -1,6 +1,6 @@
 [package]
 name = "yew_vnode_struct"
-version = "0.1.0"
+version = "0.1.1"
 description = "Utility for yew framework to get the complete structure of vnode"
 authors = ["Francisco Jesus Navarro Cortes <spieljs@gmail.com>"]
 edition = "2018"
