@@ -1,0 +1,14 @@
+[package]
+name = "yew_vnode_struct"
+version = "0.1.0"
+description = "Utility for yew framework to get the complete structure of vnode"
+authors = ["Francisco Jesus Navarro Cortes <spieljs@gmail.com>"]
+edition = "2018"
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+
+[dependencies]
+yew = { version = "0.14", features = ["toml", "yaml", "msgpack", "cbor", "web_sys"]}
+web-sys = {version = "0.3.36", features = ["Node"]}
